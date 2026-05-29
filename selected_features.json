@@ -1,0 +1,32 @@
+{
+  "sleep": [
+    "caffeine_intake_cups",
+    "digital_load_hours",
+    "is_heavy_user",
+    "log_notifications_received_per_day",
+    "log_phone_usage_before_sleep_minutes",
+    "log_physical_activity_minutes",
+    "mental_fatigue_score",
+    "notif_per_screen_hour",
+    "phone_before_sleep_flag",
+    "presleep_x_stress",
+    "screen_to_sleep_ratio",
+    "screen_x_caffeine",
+    "short_sleeper",
+    "sleep_deficit_hours",
+    "sleep_quality_score"
+  ],
+  "stress": [
+    "high_stress_flag",
+    "digital_load_hours",
+    "screen_to_sleep_ratio",
+    "presleep_x_stress",
+    "notif_per_screen_hour",
+    "mental_fatigue_score",
+    "sleep_quality_score",
+    "screen_x_caffeine",
+    "activity_x_sleep_quality",
+    "is_heavy_user",
+    "log_phone_usage_before_sleep_minutes"
+  ]
+}
