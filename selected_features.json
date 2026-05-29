@@ -2,7 +2,6 @@
   "sleep": [
     "caffeine_intake_cups",
     "digital_load_hours",
-    "is_heavy_user",
     "log_notifications_received_per_day",
     "log_phone_usage_before_sleep_minutes",
     "log_physical_activity_minutes",
